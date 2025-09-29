@@ -2,7 +2,7 @@ import React from "react";
 import axios from "axios";
 import { Rings } from 'react-loader-spinner';
 
-export default function React_Weather_Project () {
+export default function ReactWeatherProject () {
 
     function handleSubmit (response) {
         return (
